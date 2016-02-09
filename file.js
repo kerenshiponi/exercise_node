@@ -28,7 +28,6 @@ function ul(arr) {
 	return tpl({arr: arr});
 }
 
-console.log(ul(["rthr", "wr", "sdfd"]));
 
 
 module.exports = {
@@ -37,6 +36,5 @@ module.exports = {
 	p: p,
 	ul: ul
 };
-
 
  
